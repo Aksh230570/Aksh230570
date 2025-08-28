@@ -20,8 +20,17 @@
 
 ---
 
-### 🔹 Featured Projects
-🚀 [Gen AI Project with AWS Bedrock](#) – [short description of your Bedrock project].  
+## 🔹 Featured Projects
+🚀 [Gen AI Project with AWS Bedrock](#) – # Built sample **Generative AI agents** during the AWS Gen AI Day workshop under the guidance of AWS speakers.  
+These projects showcase practical applications of **AWS Bedrock** for building LLM-powered solutions. 
+ #### 🛠️ Tech Stack
+- **AWS Bedrock**  
+- **Python**
+  #### 📘 Learnings
+- Hands-on with **AWS Bedrock APIs**.  
+- Understanding **prompt design** for foundation models.  
+- Exposure to **real-world GenAI agent use cases**.  
+  
 📘 [AI/ML Learning Repo](#) – Notes + projects from courses & workshops (incl. AWS GenAI Day).  
 
 ---

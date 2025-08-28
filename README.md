@@ -31,7 +31,9 @@ These projects showcase practical applications of **AWS Bedrock** for building L
 - Understanding **prompt design** for foundation models.  
 - Exposure to **real-world GenAI agent use cases**.  
   
-📘 [AI/ML Learning Repo](#) – Notes + projects from courses & workshops (incl. AWS GenAI Day).  
+📘 [AI/ML Learning Repo](#) – https://github.com/Aksh230570/STP-AIML-Lab-and-Projects
+
+🧑‍⚕️[Built a Full Stack Web Application called HEALTHQ](#) - https://github.com/Aksh230570/HealthQ
 
 ---
 

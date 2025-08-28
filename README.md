@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Akshayapriya
 
-🎓 Selected for the **AWS AI & ML Scholarship – Udacity Nanodegree**, among the **top 3% (1,500 out of 50,000+ applicants worldwide)**.  
+🎓 Selected for the **AWS AI & ML Scholarship – Udacity Nanodegree**, among the **top 3% (1,500 out of 50,000+ applicants worldwide) and received Scholarship worth $1500 to pursue Nanodegree**.  
 🎓 Selected for **WISE COHORT 2**,as a part of the Super 100 cohort.
                     
 🎓 Completed **AI/ML Training at IIIT Hyderabad**, gaining hands-on experience in Machine Learning, Deep Learning, and Generative AI.  
